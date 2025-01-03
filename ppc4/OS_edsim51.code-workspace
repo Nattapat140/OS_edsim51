@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/OS_edsim51"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ppc3"
+		},
+		{
+			"path": "../ppc2"
+		},
+		{
+			"path": "../ppc1"
+		}
+	],
+	"settings": {}
+}
